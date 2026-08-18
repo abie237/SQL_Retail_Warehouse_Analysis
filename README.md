@@ -2,6 +2,7 @@
 
 This project is a hands-on PostgreSQL learning exercise focused on answering real business questions with SQL.  
 I worked through a retail-style database schema and used SQL to analyze revenue, customer behavior, promotions, returns, and shipping performance.
+Link_to_database : https://www.kaggle.com/datasets/datarspectrum/retail-data-warehouse-12-table-1m-rows-dataset
 
 ## Project Goal
 
